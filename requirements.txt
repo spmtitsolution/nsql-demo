@@ -1,0 +1,10 @@
+manifest-ml
+pandas
+sqlalchemy
+transformers
+datasets
+jsonlines
+sqlglot
+flask
+torch
+manifest-ml
